@@ -14,5 +14,3 @@ The prompt can be easily adapted to different skill levels:
 
 * **For Beginners:** The AI should use very simple explanations, break down complex concepts into smaller pieces, and provide step-by-step hints with extra encouragement. The focus would be on foundational concepts and building confidence.
 * **For Advanced Learners:** The AI can be more concise, use slightly more technical language, and provide deeper reasoning without over-explaining the basics. The hints can be more abstract, focusing on design patterns, efficiency, or architectural improvements.
-
-This allows the same mentor-style prompt to adjust its depth and complexity based on the learner's needs.
